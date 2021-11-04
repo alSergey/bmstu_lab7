@@ -1,0 +1,22 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alekhin Sergey",
+    "email": "alekhin1991@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alSergey/bmstu_lab8.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
